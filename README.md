@@ -1,9 +1,9 @@
 # FOOD DELIVERY WEBSITE  TEAM-5 
-## Objectives:
+## OBJECTIVES:
 
 The primary objective of the food delivery website is to provide customers with a convenient and user-friendly platform to order food online. The website will offer a broad range of local restaurants, cuisines, and delivery options to customers. The website will also enable restaurant owners to expand their reach and connect with a broader customer base.
 </br>
-## Scope:
+## SCOPE:
 
 The food delivery website will be designed to cater to the needs of customers and restaurant owners. Customers will be able to search for nearby restaurants, view menus, and place orders online. Restaurant owners will have the ability to manage orders, update menus, and track deliveries.
 </br>
